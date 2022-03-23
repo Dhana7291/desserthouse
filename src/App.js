@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="container">
+      <header className="d-flex justify-content-center align-items-center">
         <img src={logo} className="App-logo" alt="logo" width='300'  />
       </header>
     </div>
